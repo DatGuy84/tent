@@ -24,3 +24,17 @@ Thumbs.db
 *.mdb
 *.opendb
 *.VC.db
+*.apk
+build/
+Build/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+
+*.apk
+build/
+Build/
+Temp/
+Library/
+Logs/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
